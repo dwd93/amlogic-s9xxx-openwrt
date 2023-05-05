@@ -18,7 +18,7 @@ on:
         default: "openwrt:22.03.3"
         type: choice
         options:
-          - openwrt:22.03.3
+          - openwrt:22.03.5
           - openwrt:21.02.5
           - openwrt:19.07.10
           - openwrt:18.06.9
